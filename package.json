@@ -36,7 +36,6 @@
     "expect",
     "integration test",
     "jest",
-    "selenium-webdriver",
     "ts-jest",
     "typescript",
     "wd",
