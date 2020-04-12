@@ -2,7 +2,7 @@ name: wd-typescript-ts-jest-webdriver-manager-jest-expect
 'on':
   push: null
   schedule:
-    - cron: 30 6 1-31/2 * *
+    - cron: 10 5 2-31/2 * *
 jobs:
   build:
     runs-on: ubuntu-latest
