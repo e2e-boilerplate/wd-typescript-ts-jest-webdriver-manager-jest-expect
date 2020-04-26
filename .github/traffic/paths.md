@@ -1,9 +1,0 @@
-| referrer                                                                                       | count | uniques |
-| :--------------------------------------------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/wd-typescript-ts-jest-webdriver-manager-jest-expect                           | 11    | 2       |
-| /e2e-boilerplate/wd-typescript-ts-jest-webdriver-manager-jest-expect/actions                   | 3     | 1       |
-| /e2e-boilerplate/wd-typescript-ts-jest-webdriver-manager-jest-expect/blob/master/jest.setup.js | 2     | 1       |
-| /e2e-boilerplate/wd-typescript-ts-jest-webdriver-manager-jest-expect/actions/runs/75983249     | 1     | 1       |
-| /e2e-boilerplate/wd-typescript-ts-jest-webdriver-manager-jest-expect/edit/master/jest.setup.js | 1     | 1       |
-| /e2e-boilerplate/wd-typescript-ts-jest-webdriver-manager-jest-expect/runs/579215217            | 1     | 1       |
-| /e2e-boilerplate/wd-typescript-ts-jest-webdriver-manager-jest-expect/runs/579230152            | 1     | 1       |
